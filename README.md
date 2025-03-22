@@ -133,6 +133,7 @@ python scripts/01_download_filelists.py
     - `commercial`: 4.2M articles 
     - `noncommercial`: 1.6M articles
     - `other`: 414k articles
+      
 Since this is a lot of articles to process at once, you can parallelize the operation by creating smaller subsets of the file list. 
 
 > **WARNING**: NCBI allows 3 API calls per second, so take this into account when processing batches in parallel. Here is how you create subsets of the file list for each license type:
