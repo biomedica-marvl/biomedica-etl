@@ -12,7 +12,8 @@
   <strong>Website:</strong> <a href="https://minwoosun.github.io/biomedica-website" target="_blank">Biomedica</a>
   &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
  <strong>Training instructions:</strong> <a href="https://github.com/Ale9806/open_clip_with_biomedica" target="_blank">OpenCLIP</a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+   <strong>Models and Datasets </strong> <a href="https://huggingface.co/BIOMEDICA" target="_blank">Hugging Face</a>
 
 </p>
 
