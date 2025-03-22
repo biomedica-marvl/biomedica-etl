@@ -54,7 +54,7 @@ A family of continually pre-train CLIP-style models using the Biomedica Dataset 
 
 We also provide code to train a CLIP-style model leveraging the Biomedica Dataset. The dataset can be filtered on demand using the provided metadata. Additionally, we offer our own trained family of models, BMC-CLIP.
 
-## Pubmed Central Open Access ETL Pipeline
+## BIOMEDICA (Pubmed Central Open Access) ETL Pipeline
 
 **TL;DR** This  section of the repository contains code for:
 1. **Extracting:** Downloading media files (e.g., full text, captions, and images) from the PMC-OA Subset and storing them as JSON files.
