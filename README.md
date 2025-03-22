@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: -20px;">
-    <img src="https://raw.githubusercontent.com/minwoosun/biomedica-etl/refs/heads/main/media/Biomedica-Isologo-sin-espacio-2025.png" alt="Pull Figure" width="500" />
+    <img src="https://raw.githubusercontent.com/minwoosun/biomedica-etl/refs/heads/main/media/Biomedica-Isologo-sin-espacio-2025.png" alt="Pull Figure" width="550" />
 </div>
 
 
