@@ -26,7 +26,7 @@ Tutorial:
 
 
 **News:**
-* [02/24/2025] Biomedica Has been accepted to CVPR 2025! The full Biomedica Core team will be traveling to Nashville TN.
+* [02/24/2025] Biomedica Has been accepted to CVPR 2025!
 * [01/20/2025] Biomedica archives 4K downloads/month.
  
 
