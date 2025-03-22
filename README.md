@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
     <img src="media/Biomedica-Isologo-sin-espacio-2025.png" alt="Pull Figure" />
 </div>
